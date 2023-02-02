@@ -321,41 +321,38 @@ https://coolors.co/059fb3-dc3b8c-57ff4e-2d628b-421e5c-b88a00
 
 /* ------------------------------------ Headers ------------------------------------ */
 h1,
-.cm-s-obsidian pre.HyperMD-header-1,
-.markdown-rendered h1,
+.cm-header-1,
 .markdown-preview-view h1 {
   font-size: 34px;
   line-height: 40px;
 }
-.cm-s-obsidian pre.HyperMD-header-2,
-.markdown-rendered h2,
+.cm-header-2,
 .markdown-preview-view h2 {
   font-size: 26px;
   line-height: 32px;
   color: var(--granny-smith-apple);
   margin-left: 10px;
 }
-.markdown-rendered h3,
+.cm-header-3,
 .markdown-preview-view h3 {
   font-size: 22px;
   line-height: 28px;
   color: var(--orange-yellow);
   margin-left: 20px;
 }
-.cm-s-obsidian pre.HyperMD-header-4,
-.markdown-rendered h4,
+.cm-header4,
 .markdown-preview-view h4 {
   font-size: 20px;
   color: var(--kobi);
   margin-left: 30px;
 }
-.markdown-rendered h5,
+.cm-header-5,
 .markdown-preview-view h5 {
   font-size: 18px;
   color: var(--slate-gray);
   margin-left: 40px;
 }
-.markdown-rendered h6,
+.cm-header-6,
 .markdown-preview-view h6 {
   font-size: 18px;
   color: var(--text-muted);
